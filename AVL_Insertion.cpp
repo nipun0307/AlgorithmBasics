@@ -6,8 +6,6 @@
 #include<stdlib.h> 
 
 
-
-
 // A utility function to get maximum of two integers 
 int max(int a, int b) 
 { 
